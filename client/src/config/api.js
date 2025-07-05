@@ -5,8 +5,8 @@ const API_CONFIG = {
     socketURL: "http://localhost:5000",
   },
   production: {
-    baseURL: process.env.REACT_APP_API_URL || "https://your-backend-domain.com",
-    socketURL: process.env.REACT_APP_SOCKET_URL || "https://your-backend-domain.com",
+    baseURL: process.env.REACT_APP_API_URL || "https://collaborative-whiteboard-lake.vercel.app",
+    socketURL: process.env.REACT_APP_SOCKET_URL || "https://collaborative-whiteboard-lake.vercel.app",
   },
 }
 
