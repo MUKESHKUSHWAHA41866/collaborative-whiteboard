@@ -313,21 +313,5 @@ For production deployment:
 - **Drawing Data**: Incremental updates instead of full canvas data
 - **Room Cleanup**: Automatic cleanup of rooms inactive for 24+ hours
 - **Connection Management**: Proper cleanup of socket connections and room memberships
-
-## Browser Compatibility
-
-- Modern browsers with HTML5 Canvas support
-- WebSocket support required
-- Responsive design for desktop and tablet use
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
+ 
+ 
